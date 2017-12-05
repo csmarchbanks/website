@@ -26,4 +26,4 @@ For a total round trip time of 5h 5m.
 
 The Munter method can be used for any backcountry activity, but I have most often seen it used for ski touring.
 
-Check out the app at [https://chrismarchbanks.com/trip-speed/](http://chrismarchbanks.com/trip-speed/), and the code at [GitHub](https://github.com/csmarchbanks/trip-speed)
+Check out the app at [https://chrismarchbanks.com/trip-speed/](https://chrismarchbanks.com/trip-speed/), and the code at [GitHub](https://github.com/csmarchbanks/trip-speed)
