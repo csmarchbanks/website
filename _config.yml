@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chrismarchbanks.com" 
 # twitter_username: jekyllrb
 github_username:  csmarchbanks
+linkedin_username: csmarchbanks
 google_analytics: UA-110572251-1
 
 # Build settings
