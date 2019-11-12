@@ -6,8 +6,12 @@ permalink: /about/
 
 Hi! I'm Chris, a software engineer and outdoor enthusiast living in Boulder, CO.
 
-I currently work at CA Technologies, formerly Rally Software, where I do 
-mostly back-end development work.
+I currently work at [Splunk](https://www.splunk.com), where I focus on providing
+monitoring and observability.
+
+Previously I worked at [FreshTracks.io](https://freshtracks.io), an accelerator
+within CA Technologies focused on building a hosted monitoring solution for
+Kubernetes.
 
 In my free time I enjoy the mountains of Colorado as much as possible by participating
 in sports such as:
