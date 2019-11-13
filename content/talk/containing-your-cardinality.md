@@ -7,7 +7,7 @@ abstract: >
   workloads. Learn when to use high cardinality metrics, how to reduce
   unnecessary cardinality, and how to find the sources of excessive cardinality
   in your data.
-url_pdf: /assets/talks/containing-your-cardinality.pdf
+url_slides: /assets/talks/containing-your-cardinality.pdf
 date: 2019-11-08
 all_day: true
 ---
