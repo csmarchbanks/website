@@ -11,6 +11,7 @@ abstract: >
   simultaneous alerts or squashing the source of 100kB label values. Then, they
   will provide top tips to avoid this happening to your tools in the future. 
 url_slides: /assets/talks/great-cardinality-disasters-of-our-time.pdf
+url_video: https://youtu.be/6f9z9JSNOGk
 date: 2019-11-20
 publishDate: 2019-11-11
 all_day: true
