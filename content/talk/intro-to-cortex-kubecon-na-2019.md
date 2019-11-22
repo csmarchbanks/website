@@ -10,6 +10,7 @@ abstract: >
   architecture, and how to get started with Cortex. Cortex is a CNCF sandbox
   project. 
 url_slides: /assets/talks/cortex-101-kubecon-na-2019.pdf
+url_video: https://youtu.be/f8GmbH0U_kI
 date: 2019-11-19
 publishDate: 2019-11-12
 all_day: true
