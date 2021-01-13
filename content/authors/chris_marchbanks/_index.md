@@ -6,8 +6,8 @@ authors:
 superuser: true
 role: Senior Software Engineer
 organizations:
-- name: Splunk
-  url: https://www.splunk.com
+- name: Grafana Labs
+  url: https://grafana.com
 - name: Prometheus
   url: https://prometheus.io
 
@@ -31,12 +31,7 @@ Hi! I'm Chris, a software engineer and outdoor enthusiast living in Boulder, CO.
 
 I am a member of the [Prometheus](https://prometheus.io) team, and am
 passionate about all things observability. Currently I work at
-[Splunk](https://www.splunk.com), where I focus on providing an internal
-observability platform for Splunk Cloud.
-
-Previously I worked at FreshTracks.io, an accelerator
-within CA Technologies focused on building a hosted monitoring solution for
-Kubernetes.
+[Grafana Labs](https://grafana.com).
 
 In my free time I enjoy the mountains of Colorado as much as possible by participating
 in sports such as:
