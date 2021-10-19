@@ -2,15 +2,6 @@
 title: Dragon's Tail Couloir
 summary: Finally skied the classic RMNP spring route.
 date: 2021-04-10
-
-# TODO: Why aren't these captions working?
-gallery_item:
-  - album: dragons-tail/condition-comparison
-    image: dragons_tail_2017.jpg
-    caption: Dragon's Tail conditions in 2017
-  - album: dragons-tail/condition-comparison
-    image: dragons_tail_2021.jpg
-    caption: Dragon's Tail conditions in 2021
 ---
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5103722390/embed/6bc1397f85218ce30d056a56e1002971b2b7b022'></iframe>
@@ -21,7 +12,8 @@ other time, four years ago. On that outing, we turned around due to one of our
 partners having a malfunctioning crampon.
 
 <figure>
-{{< gallery album="dragons-tail/condition-comparision" resize_options="275x190" >}}
+{{< figure src="dragons-tail-2017.jpg" >}}
+{{< figure src="dragons-tail-2021.jpg" >}}
 <figcaption> Conditions in 2017 vs 2021 - we chose a beautiful day! </figcaption>
 </figure>
 
@@ -58,11 +50,11 @@ some point during the ascent! We swapped to ski mode and after a quick snack
 started our descent.
 
 {{< figure src="turnaround.jpg" title="Enjoying the view from our turnaround spot at the Y" >}}
-
-<figure>
-{{< gallery album="dragons-tail/descent" resize_options="275x">}}
-<figcaption> Descending Dragon's Tail </figcaption>
-</figure>
+{{< figure src="dragons-tail-descent-1.jpg" title="Jennifer scoping out her line">}}
+{{< figure src="dragons-tail-descent-2.jpg" >}}
+{{< figure src="dragons-tail-descent-3.jpg" >}}
+{{< figure src="dragons-tail-descent-4.jpg" >}}
+{{< figure src="dragons-tail-descent-5.jpg" title="Cruising the apron">}}
 
 When we got back to the apron I was amazed at how many skiers were just starting
 up the couloir. We asked some of the parties on the way up if they had seen a
