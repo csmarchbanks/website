@@ -1,2 +1,4 @@
+/resources/
 public/
-resources/
+jsconfig.json
+node_modules/
