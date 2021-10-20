@@ -4,6 +4,8 @@ summary: Finally skied the classic RMNP spring route.
 date: 2021-04-10
 ---
 
+{{< load-photoswipe >}}
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5103722390/embed/6bc1397f85218ce30d056a56e1002971b2b7b022'></iframe>
 
 Jennifer and I have been wanting to climb and ski Dargon's Tail for years, but
@@ -11,11 +13,10 @@ somehow never managed to time it correctly. We only attempted the route one
 other time, four years ago. On that outing, we turned around due to one of our
 partners having a malfunctioning crampon.
 
-<figure>
-{{< figure src="dragons-tail-2017.jpg" >}}
-{{< figure src="dragons-tail-2021.jpg" >}}
-<figcaption> Conditions in 2017 vs 2021 - we chose a beautiful day! </figcaption>
-</figure>
+{{< gallery >}}
+  {{< figure src="dragons-tail-2017.jpg" >}}
+  {{< figure src="dragons-tail-2021.jpg" >}}
+{{< /gallery >}}
 
 This time around we also managed to choose a beautiful, bluebird spring day.
 There was very minimal wind, and skinning conditions were excellent in the
@@ -49,12 +50,14 @@ been slow going and dangerous. Not to mention, Jennifer had lost a crampon at
 some point during the ascent! We swapped to ski mode and after a quick snack
 started our descent.
 
-{{< figure src="turnaround.jpg" title="Enjoying the view from our turnaround spot at the Y" >}}
-{{< figure src="dragons-tail-descent-1.jpg" title="Jennifer scoping out her line">}}
+{{< gallery >}}
+{{< figure src="turnaround.jpg" caption="Enjoying the view from our turnaround spot at the Y" >}}
+{{< figure src="dragons-tail-descent-1.jpg" caption="Jennifer scoping out her line">}}
 {{< figure src="dragons-tail-descent-2.jpg" >}}
 {{< figure src="dragons-tail-descent-3.jpg" >}}
 {{< figure src="dragons-tail-descent-4.jpg" >}}
-{{< figure src="dragons-tail-descent-5.jpg" title="Cruising the apron">}}
+{{< figure src="dragons-tail-descent-5.jpg" caption="Cruising the apron">}}
+{{< /gallery >}}
 
 When we got back to the apron I was amazed at how many skiers were just starting
 up the couloir. We asked some of the parties on the way up if they had seen a

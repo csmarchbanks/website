@@ -1,0 +1,9 @@
+/* Override the font-size set by wowchemy to allow captions with
+ * hugo-easy-gallery */
+.gallery {
+    font-size: inherit;
+}
+.article-style figure {
+    margin-top: inherit;
+    margin-bottom: inherit;
+}
