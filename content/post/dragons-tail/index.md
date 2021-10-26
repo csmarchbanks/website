@@ -8,7 +8,7 @@ date: 2021-04-10
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5103722390/embed/6bc1397f85218ce30d056a56e1002971b2b7b022'></iframe>
 
-Jennifer and I have been wanting to climb and ski Dargon's Tail for years, but
+Jennifer and I have been wanting to climb and ski Dragon's Tail for years, but
 somehow never managed to time it correctly. We only attempted the route one
 other time, four years ago. On that outing, we turned around due to one of our
 partners having a malfunctioning crampon.
